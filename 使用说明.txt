@@ -1,0 +1,4 @@
+打开命令窗口
+cnpm install 或npm install
+
+webpack -w 进行编译监听
